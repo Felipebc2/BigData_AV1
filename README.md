@@ -110,7 +110,3 @@ docker exec -it mongo_service mongoimport --db inep --collection cursos --type c
 - Jupyter: https://github.com/klaytoncastro/idp-bigdata/tree/main/jupyter  
 - MongoDB: https://github.com/klaytoncastro/idp-bigdata/tree/main/mongodb  
 - Cassandra: https://github.com/klaytoncastro/idp-bigdata/tree/main/cassandra  
-
-## 📌 Observações
-
-Este projeto foi realizado individualmente como parte da **Avaliação 01 da disciplina Big Data e NoSQL (IDP - 2025/1)** e não deve ser copiado por terceiros.
